@@ -1,0 +1,21 @@
+  <tr >
+                         <th style="text-align: center; border: 1px solid #ddd;">Area</th>
+                          <th style="text-align: center; border: 1px solid #ddd;" >Total user</th>  
+                           <th colspan="2" style="text-align: center; border: 1px solid #ddd;">Total Workforce</th> 
+                            <th colspan="3" style="text-align: center; border: 1px solid #ddd;" >Total Complaint</th>
+                             <th colspan="2" style="text-align: center; border: 1px solid #ddd;">Complaint Completed</th>
+
+                      </tr>
+  
+                      <tr >
+                        <th style="text-align: center; border: 1px solid #ddd;" >Area Name</th> 
+                         <th style="text-align: center; border: 1px solid #ddd;" >No. of User</th> 
+                           <th style="text-align: center; border: 1px solid #ddd;" >Volunteer</th>  
+                             <th style="text-align: center; border: 1px solid #ddd;" >NGO</th> 
+                              <th style="text-align: center; border: 1px solid #ddd;">Total Request</th>
+                             <th style="text-align: center; border: 1px solid #ddd;" >On Progress</th>
+                             <th style="text-align: center; border: 1px solid #ddd;">Completed</th>
+                              <th style="text-align: center; border: 1px solid #ddd;" >Volunteer</th>
+                             <th style="text-align: center; border: 1px solid #ddd;">NGO</th>
+                                                     
+                         </tr>
